@@ -1,13 +1,13 @@
-Hi, everyone!
-This is my code (homework and assignments) for COMP-140 (Introduction to Python Programming) at Rice University. 
-Each module is divided into homework assignments and a final project. 
+Hi, everyone! \\
+This is my code (homework and assignments) for COMP-140 (Introduction to Python Programming) at Rice University. \\
+Each module is divided into homework assignments and a final project. \\
 Many of the files require running on the Rice University IDE: py3.codeskulptor.org
-The breakdown of concepts in each module and descriptions of each final project: 
-
-Module 1
-  Concepts: Variables, Expressions, Functions
-  Project: Given three points, calculate the center and radius of a circle that passes through all three points
-
+The breakdown of concepts in each module and descriptions of each final project:  \\
+\\
+Module 1 \\
+  Concepts: Variables, Expressions, Functions \\
+  Project: Given three points, calculate the center and radius of a circle that passes through all three points \\
+\\
 Module 2
   Concepts: Strings, Conditionals, Lists, Tuples, Iterations
   Project: Spot it! Interactive game where you try and find the common image between two groups of images 
